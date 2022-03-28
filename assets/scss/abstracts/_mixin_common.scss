@@ -1,0 +1,6 @@
+@mixin ellipse {
+  // 생략하는데 쓰임 보통은 말줄임표
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
