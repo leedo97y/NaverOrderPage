@@ -23,3 +23,14 @@
 - [x] background 영역 
 - [x] SVG vs IMG 
 - [x] svg 사용해서 아이콘 삽입
+
+### _step #2_
+- [x] 헤더영역 : place header 
+- [x] 헤더영역 : place tab
+- [x] role 속성 : 복습
+- [x] 주문 분류 영역
+- [x] 최근 주문 명역
+- [x] 메뉴 카테고리 영역
+- [ ] 메뉴 리스트 영역 : &:, &:: 따로 복습하기
+- [x] 메뉴 리스트 영역 : title div 따로 만들기
+- [x] 메뉴 아이템 페이지 : HTML 마크업
